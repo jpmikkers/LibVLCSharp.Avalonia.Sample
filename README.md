@@ -1,6 +1,6 @@
 # LibVLCSharp.Avalonia.Sample
 
-This is an updated version of the LibVLCSharp.Avalonia.Sample of the [LibVLCSharp project](https://github.com/videolan/libvlcsharp)
+This is an isolated and updated version of the LibVLCSharp.Avalonia.Sample of the [LibVLCSharp project](https://github.com/videolan/libvlcsharp)
 
 - targets dotnet 8
 - bumped all nuget package versions
